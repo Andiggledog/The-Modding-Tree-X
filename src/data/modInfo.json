@@ -1,7 +1,7 @@
 {
-	"title": "The Modding Tree X",
-	"id": "tmt-x",
-	"author": "thepaperpilot",
+	"title": "The Digging Tree",
+	"id": "diggle",
+	"author": "Andiggledog",
 	"discordName": "The Paper Pilot Community",
 	"discordLink": "https://discord.gg/WzejVAx",
 
@@ -17,5 +17,5 @@
 	"initialTabs": [ "main", "c" ],
 
 	"maxTickLength": 3600,
-	"offlineLimit": 1
+	"offlineLimit": 0
 }
